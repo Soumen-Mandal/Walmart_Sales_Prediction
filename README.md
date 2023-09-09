@@ -1,7 +1,6 @@
 # Walmart_Sales_Prediction
 
-Stractegic Plan of Action:
-We aim to solve the problem statement by creating a plan of action, Here are some of the necessary steps:
+
 
 1. Data Exploration
 2. Exploratory Data Analysis (EDA)
